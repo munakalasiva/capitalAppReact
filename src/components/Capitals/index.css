@@ -1,0 +1,18 @@
+.bg-con {
+  height: 100vh;
+  padding: 20px;
+  background-color: #93c5fd;
+}
+.card {
+  background-color: white;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.set-col {
+  display: flex;
+  margin: 10px;
+}
